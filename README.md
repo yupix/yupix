@@ -1,8 +1,6 @@
 # Hello there! I'm yupix
 
-<a>
-<img align="right" src="https://discordapp.com/api/guilds/530299114387406860/widget.png?style=banner4"/>
-</a>
+<img align="right" width="250px" src="https://s3.akarinext.org/misskey/*/34739acf-3ca0-4a38-b74e-fc5235a821f7.png" />
 
 ```python
 class Cat:
@@ -24,9 +22,28 @@ if __name__ == '__main__':
 
 ```
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yupix&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true">
 
-<img align="right" width="250px" src="https://s3.akarinext.org/misskey/*/34739acf-3ca0-4a38-b74e-fc5235a821f7.png" />
+  <p align="center">
+    <a href="https://github.com/yupix">
+      <img
+        align="center"
+        height="150em"
+        src="https://github-readme-stats.vercel.app/api?username=yupix&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      />
+    </a>
+    <a href="https://github.com/yupix">
+      <img
+        align="center"
+        height="150em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yupix&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      />
+    </a>
+  </p>
+</p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=yupix&theme=react-dark">
 
 ## Favorite Tech
 
@@ -63,27 +80,24 @@ if __name__ == '__main__':
 </table>
 
 
-<p align="center">
 
 <p align="center">
-  <a href="https://github.com/yupix">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=yupix&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
+Contact Me
+<br />
+  <a href="https://discord.gg/CcT997U">
+    <img align="center" src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=9575cd">
   </a>
-  <a href="https://github.com/yupix">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yupix&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
+  <a href="rn.akarinext.org/@yupix">
+    <img align="center" src="https://img.shields.io/badge/misskey-1C1C1C?style=for-the-badge">
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yupix&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+## My Discord Server
 
-</p>
+<a href="https://discord.gg/CcT997U">
+<img src="https://discordapp.com/api/guilds/530299114387406860/widget.png?style=banner4" alt="akarinext banner"/>
+</a>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=yupix&theme=react-dark">
+## Other
+
+The girl who is purring "meow" is on [this](https://www.pixiv.net/artworks/97114638) site. [author](https://twitter.com/40hara)
