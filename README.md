@@ -1,6 +1,6 @@
 # Hello there! I'm yupix
 
-<img align="right" width="250px" src="https://s3.akarinext.org/misskey/*/34739acf-3ca0-4a38-b74e-fc5235a821f7.png" />
+<img align="right" width="250px" src="https://s3.akarinext.org/assets/*/yupix/68747470733a2f2f73332e616b6172696e6578742e6f72672f6d6973736b65792f2a2f33343733396163662d336361302d346133382d623734652d6663353233356138323166372e706e67.png" />
 
 ```python
 class Cat:
