@@ -42,8 +42,10 @@ if __name__ == '__main__':
     </a>
   </p>
 </p>
+<p align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yupix&theme=react-dark"/>
+</p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=yupix&theme=react-dark">
 
 ## Favorite Tech
 
