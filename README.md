@@ -87,7 +87,7 @@ Contact Me
   <a href="https://discord.gg/CcT997U">
     <img align="center" src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=9575cd">
   </a>
-  <a href="rn.akarinext.org/@yupix">
+  <a href="https://nr.akarinext.org/@yupix">
     <img align="center" src="https://img.shields.io/badge/misskey-1C1C1C?style=for-the-badge">
   </a>
 </p>
