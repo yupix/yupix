@@ -30,14 +30,14 @@ if __name__ == '__main__':
       <img
         align="center"
         height="150em"
-        src="https://github-readme-stats.vercel.app/api?username=yupix&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yupix&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
       />
     </a>
     <a href="https://github.com/yupix">
       <img
         align="center"
         height="150em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yupix&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yupix&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
       />
     </a>
   </p>
