@@ -43,7 +43,7 @@ if __name__ == '__main__':
   </p>
 </p>
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yupix&theme=react-dark"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yupix&theme=react-dark"/>
 </p>
 
 
