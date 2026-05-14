@@ -1,7 +1,5 @@
 # Hello there! I'm yupix
 
-<img align="right" width="250px" src="https://s3.akarinext.org/assets/*/yupix/cat.png" />
-
 ```python
 class Cat:
     def __init__(self, name: str, age: int):
@@ -30,14 +28,14 @@ if __name__ == '__main__':
       <img
         align="center"
         height="150em"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yupix&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+        src="https://raw.githubusercontent.com/yupix/yupix/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"
       />
     </a>
     <a href="https://github.com/yupix">
       <img
         align="center"
         height="150em"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yupix&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+        src="https://raw.githubusercontent.com/yupix/yupix/master/profile-summary-card-output/github_dark/3-stats.svg"
       />
     </a>
   </p>
@@ -100,6 +98,4 @@ Contact Me
 <img src="https://discordapp.com/api/guilds/530299114387406860/widget.png?style=banner4" alt="akarinext banner"/>
 </a>
 
-## Other
 
-The girl who is purring "meow" is on [this](https://www.pixiv.net/artworks/97114638) site. [author](https://twitter.com/40hara)
